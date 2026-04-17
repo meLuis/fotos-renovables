@@ -1,0 +1,87 @@
+PRODUCTOS LABORATORIO CON ETIQUETA /FOTO/ - AGRUPADOS POR TIPOLOGIA
+============================================================
+Total: 48
+
+------------------------------------------------------------
+[1] PROBETAS (11 productos)
+------------------------------------------------------------
+5089  |  PROBETA DE VIDRIO GRADUADA C/PICO 10 ML
+5090  |  PROBETA DE VIDRIO GRADUADA C/PICO 50 ML G-
+5091  |  PROBETA DE VIDRIO GRADUADA C/PICO 100 ML
+5298  |  PROBETA VIDRIO TRANSPARENTE 500ML
+5401  |  PROBETA VIDRIO 25ML
+5412  |  PROBETA VIDRIO GRADUADA 1L
+5092  |  PROBETA DE PLASTICO GRADUADA 10 ML
+5093  |  PROBETA DE PLASTICO GRADUADA 50 ML
+5094  |  PROBETA DE PLASTICO GRADUADA 100 ML
+5095  |  PROBETA DE PLASTICO GRADUADA 250 ML
+5383  |  PROBETA DE PLASTICO GRADUADA 500 ML
+
+------------------------------------------------------------
+[2] TUBOS DE ENSAYO (7 productos)
+------------------------------------------------------------
+5103  |  TUBO DE ENSAYO DE VIDRIO 12*75MM (PAQ 250UND)
+5128  |  TUBO DE ENSAYO DE VIDRIO CON TAPA ROSCA 16*125-PYREX
+5137  |  TUBO DE ENSAYO C/TAPA ROSCA 13*100 SIMPLE
+5188  |  TUBO DE ENSAYO T/ROSCA 16*150 - PYREX
+5513  |  TUBO ENSAYO PYREX 13*100 (BX250) 10ml
+5575  |  TUBO DE ENSAYO T/ROSCA 20*150MM - PYREX
+5138  |  TUBO CONICO CON TAPA ROSCA DE 50ML NO ESTERIL
+
+------------------------------------------------------------
+[3] MATRACES ERLENMEYER (7 productos)
+------------------------------------------------------------
+5461  |  MATRAZ ERLENMEYER DE VIDRIO BORO 50ML g-
+5402  |  MATRAZ ERLENMEYER DE VIDRIO BORO 100ML
+5105  |  MATRAZ ERLENMEYER DE VIDRIO 250ML
+5106  |  MATRAZ ERLENMEYER DE VIDRIO 500ML
+5403  |  MATRAZ ERLENMEYER DE VIDRIO 1L
+5445  |  MATRAZ ERLENMEYER POLIPROPILENO *100ML
+5572  |  MATRAZ ERLENMEYER DE POLIPROPILENO 250ML
+
+------------------------------------------------------------
+[4] FIOLAS / MATRACES VOLUMETRICOS (6 productos)
+------------------------------------------------------------
+5455  |  FIOLA 50ML
+5408  |  FIOLA VOLUMETRICA C/PICO 100ML
+5515  |  FIOLA DE VIDRIO 250ML
+5516  |  FIOLA DE VIDRIO 500
+5590  |  FIOLA 1L VIDRIO
+5409  |  FIOLA VOLUMETRICA GRADUADO DE VIDRIO 1000ML - BOECO
+
+------------------------------------------------------------
+[5] FRASCOS BOCA ANCHA (5 productos)
+------------------------------------------------------------
+5404  |  FRASCO BOCA ANCHA TRANSPARENTE TAPA AZUL 50ML
+5348  |  FRASCO DE VIDRIO BOCA ANCHA AMBAR TAPA AZUL 250ML
+5264  |  FRASCO DE VIDRIO BOCA ANCHA TAPA AZUL 500ML
+5521  |  FRASCO DE VIDRIO BOCA ANCHA AMBAR TAPA AZUL 500ML
+5259  |  FRASCO DE VIDRIO BOCA ANCHA TAPA AZUL 1L NIU S/20.0
+
+------------------------------------------------------------
+[6] EMBUDOS (4 productos)
+------------------------------------------------------------
+5187  |  EMBUDO VIDRIO 60MM
+5528  |  EMBUDO DE VIDRIO DE BOROSILICATO DE 75MM G-
+5108  |  EMBUDO DE VIDRIO DE BOROSILICATO DE 100MM
+5345  |  EMBUDO PLASTICO
+
+------------------------------------------------------------
+[7] VASOS GRADUADOS (3 productos)
+------------------------------------------------------------
+5385  |  VASO GRADUADO DE POLIPROPILENO 100ML
+5386  |  VASO GRADUADO DE POLIPROPILENO 250ML-300ML
+5490  |  VASO GRADUADO DE PLASTICO 500ML
+
+------------------------------------------------------------
+[8] INSTRUMENTOS Y ACCESORIOS (3 productos)
+------------------------------------------------------------
+5113  |  TERMOMETRO  DIGITAL DE VASTAGO PARA COCINA DE 15CM
+5223  |  PROPIPETA VERDE 10ML
+5226  |  DESACADOR 300MM
+
+------------------------------------------------------------
+[9] GRADILLAS Y CEPILLOS (2 productos)
+------------------------------------------------------------
+5114  |  GRADILLA ACRILICA PARA 50 TUBOS
+5131  |  CEPILLO DE LIMPIEZA PARA TUBO DE ENSAYO  13*100MM
