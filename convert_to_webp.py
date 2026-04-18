@@ -1,7 +1,7 @@
 """
-Convierte .jpg/.jpeg a .webp conservando la orientación EXIF.
-Los .webp quedan en el mismo lugar que los .jpg originales.
-Los .jpg originales se mueven al backup en el Escritorio.
+Convierte .jpg/.jpeg/.avif a .webp conservando la orientación EXIF.
+Los .webp quedan en el mismo lugar que los originales.
+Los originales se mueven al backup en el Escritorio.
 
 Uso: py convert_to_webp.py
 """
@@ -18,7 +18,7 @@ except ImportError:
 
 ROOT   = Path(__file__).parent
 BACKUP = Path.home() / "Desktop" / "backup-fotos-renovables-jpg"
-EXTS   = {".jpg", ".jpeg"}
+EXTS   = {".jpg", ".jpeg", ".avif"}
 
 # Calidad 85 → ~60-70% menos peso que JPG sin diferencia visual apreciable
 QUALITY = 85
@@ -51,21 +51,21 @@ def convert(src: Path) -> str:
 
 
 def main():
-    jpgs = sorted(p for p in ROOT.rglob("*")
+    imgs = sorted(p for p in ROOT.rglob("*")
                   if p.suffix.lower() in EXTS and p.is_file())
 
-    total = len(jpgs)
+    total = len(imgs)
     if total == 0:
-        print("No se encontraron archivos .jpg/.jpeg.")
+        print("No se encontraron archivos .jpg/.jpeg/.avif.")
         return
 
     print(f"Encontrados : {total} archivos")
-    print(f"Backup JPG  : {BACKUP}\n")
+    print(f"Backup      : {BACKUP}\n")
 
     ok = skip = err = 0
-    for i, jpg in enumerate(jpgs, 1):
-        rel    = jpg.relative_to(ROOT)
-        result = convert(jpg)
+    for i, img in enumerate(imgs, 1):
+        rel    = img.relative_to(ROOT)
+        result = convert(img)
         if result == "ok":
             ok += 1
             print(f"  [{i:>4}/{total}] OK    {rel}")
@@ -76,7 +76,7 @@ def main():
             err += 1
 
     print(f"\n{'='*52}")
-    print(f"  Convertidos : {ok}  → .webp en su lugar, .jpg en backup")
+    print(f"  Convertidos : {ok}  → .webp en su lugar, original en backup")
     print(f"  Saltados    : {skip}  (el .webp ya existía)")
     print(f"  Errores     : {err}")
     print(f"{'='*52}")
